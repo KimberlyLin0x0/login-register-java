@@ -1,0 +1,27 @@
+server:
+  port: 8088
+  
+  
+# jdbc
+spring:
+    datasource:
+      driverclassname: com.mysql.jdbc.Driver
+      password: root
+      username: root
+      url: jdbc:mysql://localhost:3306/pactera?characterEncoding=UTF-8
+
+# mybtaisÅäÖÃ
+mybatis:
+  mapper-locations: classpath:mapper/*Mapper.xml
+  configuration:
+    map-underscore-to-camel-case: true
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+
+# ÈÕÖ¾¼¶±ð
+logging:
+  level:
+    root: info
+
+mapper:
+  not-empty: false
+  identity: MYSQL

@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d0cada88-a275-413c-9417-13312e7e28cd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="E:\software\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="1.8" />
+        <option name="vmOptionsForImporter" value="-Xmx1024m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="1TaJd6GzVtJYXhH8OCRcVxUn4xl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="findjar.last.used.dir" value="F:/" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/cn/eli/vue" />
+    <property name="last_opened_file_path" value="F:/" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.eli.vue.service" />
+      <recent name="cn.eli.vue.api" />
+      <recent name="cn.eli.vue.config" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\pectera-login-java\vue-login-java-master\src\main\resources" />
+      <recent name="F:\pectera-login-java\vue-login-java-master\src\main" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.VueLoginJavaApplication">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.eli.vue.Test" />
+      <module name="vue-login-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.eli.vue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VueLoginJavaApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.eli.vue.VueLoginJavaApplication" />
+      <module name="vue-login-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.VueLoginJavaApplication" />
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d0cada88-a275-413c-9417-13312e7e28cd" name="Default Changelist" comment="" />
+      <created>1585917986534</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585917986534</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser" timestamp="1585999000864">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1585999000864" />
+    <state x="462" y="222" width="441" height="293" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1585983766151">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="462" y="222" width="441" height="293" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1585983766151" />
+    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585980851369">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1585980851369" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1586027497101">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1586027497101" />
+    <state width="1165" height="209" key="GridCell.Tab.0.bottom" timestamp="1586021616085">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1165" height="209" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586021616085" />
+    <state width="1165" height="209" key="GridCell.Tab.0.center" timestamp="1586021616082">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1165" height="209" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586021616082" />
+    <state width="1165" height="209" key="GridCell.Tab.0.left" timestamp="1586021616081">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1165" height="209" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586021616081" />
+    <state width="1165" height="209" key="GridCell.Tab.0.right" timestamp="1586021616082">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1165" height="209" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586021616082" />
+    <state width="1150" height="45" key="GridCell.Tab.1.bottom" timestamp="1586000817599">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1150" height="45" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586000817599" />
+    <state width="1150" height="45" key="GridCell.Tab.1.center" timestamp="1586000817599">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1150" height="45" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1586000817599" />
+    <state width="1150" height="45" key="GridCell.Tab.1.left" timestamp="1586000817599">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1150" height="45" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1586000817599" />
+    <state width="1150" height="45" key="GridCell.Tab.1.right" timestamp="1586000817599">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1150" height="45" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1586000817599" />
+    <state x="213" y="18" key="Maven.ArtifactSearchDialog" timestamp="1586015653334">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="213" y="18" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1586015653334" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1585982799422">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1585982799422" />
+    <state x="482" y="141" key="chooseDestDirectoryDialog" timestamp="1585983066554">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="482" y="141" key="chooseDestDirectoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1585983066554" />
+    <state x="232" y="59" width="647" height="626" key="find.popup" timestamp="1586013519211">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="232" y="59" width="647" height="626" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1586013519211" />
+  </component>
+</project>
